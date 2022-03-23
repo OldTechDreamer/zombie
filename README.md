@@ -5,4 +5,4 @@ Run Zombie.py with python3.
 
 setup.py used to compile to an exe with py2exe.
 
-[Zombie](https://github.com/OldTechDreamer/zombie/blob/main/Example.png?raw=true "Zombie")
+![Zombie](https://github.com/OldTechDreamer/zombie/blob/main/Example.png?raw=true "Zombie")
